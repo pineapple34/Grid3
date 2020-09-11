@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\GitHub\Grid3\Grid3\bin\Debug\Grid3.exe.config
+C:\Users\Asus\Desktop\GitHub\Grid3\Grid3\bin\Debug\Grid3.exe
+C:\Users\Asus\Desktop\GitHub\Grid3\Grid3\bin\Debug\Grid3.pdb
+C:\Users\Asus\Desktop\GitHub\Grid3\Grid3\obj\Debug\Grid3.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\GitHub\Grid3\Grid3\obj\Debug\Grid3.Form1.resources
+C:\Users\Asus\Desktop\GitHub\Grid3\Grid3\obj\Debug\Grid3.Properties.Resources.resources
+C:\Users\Asus\Desktop\GitHub\Grid3\Grid3\obj\Debug\Grid3.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\GitHub\Grid3\Grid3\obj\Debug\Grid3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\GitHub\Grid3\Grid3\obj\Debug\Grid3.exe
+C:\Users\Asus\Desktop\GitHub\Grid3\Grid3\obj\Debug\Grid3.pdb
